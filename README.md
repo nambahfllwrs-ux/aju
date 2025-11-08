@@ -1,1 +1,3 @@
 # aju
+# game
+# menu
